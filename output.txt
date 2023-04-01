@@ -1,0 +1,2 @@
+ Enter two value: GCD of 4201499 and 4201408 is = 1
+LCM of 4201499 and 4201408 is = -104075968
